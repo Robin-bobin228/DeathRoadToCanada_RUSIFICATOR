@@ -1,28 +1,30 @@
-# DeathRoadToCanada_-
-Русификатор для Death road to Canada который использует патч от Китайский мододелов которым большое спасибо за тех часть русификатора/локализатора
+# РУСИФИКАТОР ДЛЯ ИГРЫ DEATH ROAD TO CANADA
 
-скачайте последнюю версию из свежого релиза
+Русификатор для **Death Road to Canada**, использующий патч от китайских мододелов, которым большое спасибо за техническую часть локализации.
 
-https://github.com/Robin-bobin228/DeathRoadToCanada_RUSIFICATOR/releases
+---
 
-распакуйте архив в папку игры с заменой и запустите через стим
+### Установка
 
-над русификатором работали 
+1. Скачайте последнюю версию из [свежего релиза](https://github.com/Robin-bobin228/DeathRoadToCanada_RUSIFICATOR/releases).
+2. Распакуйте архив в папку с игрой с заменой файлов.
+3. Запустите игру через Steam.
 
-Marsel_Rzhavchinko большая часть перевода
+---
 
-Евгений Камерчик (@Kamer4k) Художник переводчик спрайтов 
+### Над русификатором работали
 
-Отдельное спасибо 
+* **Marsel_Rzhavchinko** — большая часть перевода
+* **Евгений Камерчик** ([@Kamer4k](https://t.me/Kamer4k)) — художник, переводчик спрайтов
 
-Boopsik Bobkins (@Boopsik8)
+### Отдельное спасибо
 
-Greys Meow (@VioleGreys) 
+* **Boopsik Bobkins** ([@Boopsik8](https://t.me/Boopsik8))
+* **Greys Meow** ([@VioleGreys](https://t.me/VioleGreys))
+* **антон дефолт🐈🇺🇸**
+* **Don Das**
+* **Артур Ганеев**
 
-антон дефолт🐈🇺🇸 
+---
 
-Don Das
-
-Артур Ганеев
-
-вы можете поддержать меня на бусти ( https://boosty.to/mars229 ) 
+Вы можете поддержать меня на [Boosty](https://boosty.to/mars229).
