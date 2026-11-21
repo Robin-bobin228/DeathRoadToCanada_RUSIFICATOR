@@ -14,13 +14,13 @@
 
 ### Над русификатором работали
 
-* **Marsel_Rzhavchinko** — большая часть перевода
+* **Marsel_Rzhavchinko** — @Marseleos большая часть перевода
 * **Евгений Камерчик** ([@Kamer4k](https://t.me/Kamer4k)) — художник, переводчик спрайтов
 
 ### Отдельное спасибо
 
-* **Boopsik Bobkins** ([@Boopsik8](https://t.me/Boopsik8))
-* **Greys Meow** ([@VioleGreys](https://t.me/VioleGreys))
+* **Boopsik Bobkins** 
+* **Greys Meow** 
 * **антон дефолт🐈🇺🇸**
 * **Don Das**
 * **Артур Ганеев**
