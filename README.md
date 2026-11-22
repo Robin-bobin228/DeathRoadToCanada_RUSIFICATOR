@@ -12,6 +12,9 @@
 2. Распакуйте архив в папку с игрой с заменой файлов.
 3. Запустите игру через Steam.
 
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/d79d7203-82ca-4b63-9831-a2921d883ef0" />
+
+
 ---
 
 ### Над русификатором работали
@@ -30,3 +33,4 @@
 ---
 
 Вы можете поддержать меня на [Boosty](https://boosty.to/mars229).
+<img width="60" height="72" alt="image" src="https://github.com/user-attachments/assets/0755f8f3-d0bb-4238-a67c-5da343d51478" />
