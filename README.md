@@ -33,4 +33,5 @@
 ---
 
 Вы можете поддержать меня на [Boosty](https://boosty.to/mars229).
-<img width="60" height="72" alt="image" src="https://github.com/user-attachments/assets/0755f8f3-d0bb-4238-a67c-5da343d51478" />
+<img width="60" height="72" alt="image" src="https://github.com/user-attachments/assets/0755f8f3-d0bb-4238-a67c-5da343d51478" /> <img width="112" height="112" alt="image" src="https://github.com/user-attachments/assets/efe966d8-7446-466c-8deb-f283548a8fb2" />
+
