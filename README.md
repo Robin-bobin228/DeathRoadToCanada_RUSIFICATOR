@@ -33,5 +33,12 @@
 ---
 
 Вы можете поддержать меня на [Boosty](https://boosty.to/mars229).
-<img width="60" height="72" alt="image" src="https://github.com/user-attachments/assets/0755f8f3-d0bb-4238-a67c-5da343d51478" /> <img width="112" height="112" alt="image" src="https://github.com/user-attachments/assets/efe966d8-7446-466c-8deb-f283548a8fb2" />
+
+<img width="60" height="72" alt="image" src="https://github.com/user-attachments/assets/0755f8f3-d0bb-4238-a67c-5da343d51478" /> <img width="112" height="112" alt="image" src="https://github.com/user-attachments/assets/6d6c3261-b3e8-4485-a358-12740c639a7d" /> <img width="72" height="66" alt="image" src="https://github.com/user-attachments/assets/be5a6e1e-d2ac-4223-bc72-ee26f268c2f1" /> <img width="45" height="60" alt="image" src="https://github.com/user-attachments/assets/f9acf259-db72-4013-b645-5cb5876369bd" /> <img width="60" height="92" alt="image" src="https://github.com/user-attachments/assets/e8084cdd-c2aa-4151-a8a7-2cfef92eb38b" />  <img width="48" height="80" alt="image" src="https://github.com/user-attachments/assets/37750bfd-3d90-455a-a74c-4973d393be5d" />  <img width="60" height="96" alt="image" src="https://github.com/user-attachments/assets/5c9fc0d7-d142-4df6-99d9-6aa3bcd7a52c" />
+
+
+
+
+
+
 
